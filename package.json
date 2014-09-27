@@ -1,0 +1,20 @@
+{
+  "name": "transnum",
+  "version": "0.0.1",
+  "description": "流水号生成",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@www.1j1vip.com:git/pscsystem.git"
+  },
+  "keywords": [
+    "psc"
+  ],
+  "author": "kavin wang",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
